@@ -1,0 +1,2 @@
+spanConsumer=com.github.jessyZu.dz.ConsumerSpanFilter
+spanProvider=com.github.jessyZu.dz.ProviderSpanFilter
